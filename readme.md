@@ -3,4 +3,4 @@
 # jntar o projeto de token  withflask
 # padrionizar colunas
 # VER COMO UTILIZAR COCNCAT
-# ARUMAR LUCO PADRONIZAR
+# problemas da cor 
